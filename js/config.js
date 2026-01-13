@@ -114,7 +114,7 @@ const API_SITES = {
     },
     'heimuer': {
         api: 'https://www.heimuer.tv/api.php/provide/vod',
-        name: '黑木耳',
+        name: '黑木',
         adult: false
     },
     'hhzyapi': {
@@ -244,8 +244,8 @@ const API_SITES = {
     },
     'siwazyw': {
         api: 'http://siwazyw.cc/api.php/provide/vod',
-        name: '丝袜资源',
-        adult: true // 标记为成人内容
+        name: '袜资源',
+        adult: true 
     },
     'slapibf': {
         api: 'http://slapibf.com/api.php/provide/vod',
@@ -365,7 +365,7 @@ const API_SITES = {
     '911ysw': {
         api: 'https://www.911ysw.top/tianyi.php/provide/vod',
         name: '天翼资源',
-        adult: false // 注意：此地址为 tianyi.php，非标准 api.php
+        adult: false 
     }
 };
     //ARCHIVE https://telegra.ph/APIs-08-12
